@@ -1,62 +1,63 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/",
+    "image": "/assets/images/Billy.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/",
+    "image": "/assets/images/Dustin_Henderson.png",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/",
+    "image": "/assets/images/Eleven.png",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/",
+    "image": "/assets/images/Hopper.png",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/g",
+    "image": "/assets/images/Jonathan.png",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/",
+    "image": "/assets/images/Joyce_(S3).png",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/",
+    "image": "/assets/images/Lucas_Sinclair.png",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/",
+    "image": "/assets/images/Max.jpg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/",
+    "image": "/assets/images/Mike_Wheeler.png",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/",
+    "image": "/assets/images/Nancy.png",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/",
+    "image": "/assets/images/Steve_Harrington.jpg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/",
+    "image": "/assets/images/Will.png",
     "clicked": false
   }
+  
 ]
